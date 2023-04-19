@@ -18,4 +18,4 @@ def return_the_phone(phone = str):
 
     
 if __name__ == "__main__":
-    uvicorn.run(app, host="195.135.253.40", port=8008)
+    uvicorn.run(app, host="195.135.253.40", port=8000)
